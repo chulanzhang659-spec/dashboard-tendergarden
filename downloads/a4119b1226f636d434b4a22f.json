@@ -1,0 +1,439 @@
+{
+  "competitor_id": "zhanmeiya",
+  "platform": "抖音",
+  "shop_name": "绽媄娅官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAAiPyXdMd6GfuE48PxFyA1LgyZFtyAUq76NH0ELICPI54",
+  "live_url": "https://live.douyin.com/500565556514",
+  "captured_at": "2026-10-15T12:23:52+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表20款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【买正送正】绽美娅PDRN能量棒2.0次抛精华舒缓修护紧致抗皱绽媄娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 369.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【买正送正】绽美娅PDRN能量棒2.0次抛精华舒缓修护紧致抗皱绽媄娅；保价双11！到手51件！",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "保价双11！到手51件！",
+      "raw_product_card": "x352\n讲解中\n【买正送正】绽美娅PDRN能量棒2.0次抛精华舒缓修护紧致抗皱绽媄娅\n保价双11！到手51件！\n运费险7天无理由退货\n大促价\n¥369\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【到手115件超值囤货】绽美娅双球PDRN能量棒2.0次抛精华紧致绽媄娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 609.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【到手115件超值囤货】绽美娅双球PDRN能量棒2.0次抛精华紧致绽媄娅；巨划算 到手98支同款还送面霜",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "巨划算 到手98支同款还送面霜",
+      "raw_product_card": "2\n【到手115件超值囤货】绽美娅双球PDRN能量棒2.0次抛精华紧致绽媄娅\n巨划算 到手98支同款还送面霜\n运费险7天无理由退货\n大促价\n¥609\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【送礼盒装】绽媄娅球PDRN能量棒2.0次抛精华抗皱紧致淡纹绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 429.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【送礼盒装】绽媄娅球PDRN能量棒2.0次抛精华抗皱紧致淡纹绽美娅；42支+面霜！拍1到手55件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "42支+面霜！拍1到手55件",
+      "raw_product_card": "3\n【送礼盒装】绽媄娅球PDRN能量棒2.0次抛精华抗皱紧致淡纹绽美娅\n42支+面霜！拍1到手55件\n运费险7天无理由退货\n大促价\n¥429\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢购】绽美娅PDRN能量棒2.0次抛精华舒缓绽媄娅红果专属价",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 189.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "褪红饱满 紧致抗皱不松垮",
+      "raw_product_card": "4\n【双11抢购】绽美娅PDRN能量棒2.0次抛精华舒缓绽媄娅红果专属价\n褪红饱满 紧致抗皱不松垮\n运费险7天无理由退货\n¥189\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【0.01锁权礼】满300赠贴骨面膜+氨基酸洁面泡【本单不可退】",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 0.01,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【0.01锁权礼】满300赠贴骨面膜+氨基酸洁面泡【本单不可退】",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "会员专享",
+      "promotion_copy": "剩2495件；会员专享",
+      "raw_product_card": "5\n【0.01锁权礼】满300赠贴骨面膜+氨基酸洁面泡【本单不可退】\n剩2495件\n会员专享\n¥0.01\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【水光提亮】绽媄娅球PDRN水光面膜保湿修护抗皱滋养紧致绽美娅淡纹",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 199.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "水光嘭弹!推荐拍选项2!",
+      "raw_product_card": "6\n【水光提亮】绽媄娅球PDRN水光面膜保湿修护抗皱滋养紧致绽美娅淡纹\n水光嘭弹!推荐拍选项2!\n运费险7天无理由退货\n大促价\n¥199\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【抗皱面霜】绽媄娅球PDRN精华超能面霜滋养修护保湿舒缓敏感肌提亮",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 309.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "秋冬入 pdrn 超能抗皱面霜",
+      "raw_product_card": "7\n【抗皱面霜】绽媄娅球PDRN精华超能面霜滋养修护保湿舒缓敏感肌提亮\n秋冬入 pdrn 超能抗皱面霜\n运费险7天无理由退货\n大促价\n¥309\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11享补贴】绽媄娅焕能修护安肌钝感力精华水保湿舒缓绽美娅紧致",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 129.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "拍1发2，到手130ml",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "拍1发2，到手130ml",
+      "raw_product_card": "8\n【双11享补贴】绽媄娅焕能修护安肌钝感力精华水保湿舒缓绽美娅紧致\n拍1发2，到手130ml\n运费险7天无理由退货\n大促价\n¥129\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【享补贴】绽媄娅焕能修护安肌钝感力精华水乳持久保湿抗皱紧致舒缓",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 259.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "水乳保湿舒缓，肌肤好帮手",
+      "raw_product_card": "9\n【享补贴】绽媄娅焕能修护安肌钝感力精华水乳持久保湿抗皱紧致舒缓\n水乳保湿舒缓，肌肤好帮手\n运费险7天无理由退货\n大促价\n¥259\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 10,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11享补贴】绽媄娅焕能修护安肌钝感力精华深层舒缓保湿绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 209.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "拍40ml享50ml！",
+      "raw_product_card": "10\n【双11享补贴】绽媄娅焕能修护安肌钝感力精华深层舒缓保湿绽美娅\n拍40ml享50ml！\n运费险7天无理由退货\n大促价\n¥209\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 11,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11享补贴】绽媄娅丰盈紧致淡纹贴骨pro精华液修护抗皱舒缓保湿",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 218.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "紧致抗皱舒缓淡纹",
+      "raw_product_card": "11\n【双11享补贴】绽媄娅丰盈紧致淡纹贴骨pro精华液修护抗皱舒缓保湿\n紧致抗皱舒缓淡纹\n运费险7天无理由退货\n大促价\n¥218\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 12,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11享补贴】绽媄娅焕能修护精华面霜修护敏敏肌保湿舒缓熬夜紧致",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 238.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "换季呵护肌肤屏障~",
+      "raw_product_card": "12\n【双11享补贴】绽媄娅焕能修护精华面霜修护敏敏肌保湿舒缓熬夜紧致\n换季呵护肌肤屏障~\n运费险7天无理由退货\n大促价\n¥238\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 13,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【享补贴】绽媄娅焕能修护安肌钝感力涂抹蓝膜保湿修护绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 169.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "28天摆脱脆敏皮",
+      "raw_product_card": "13\n【享补贴】绽媄娅焕能修护安肌钝感力涂抹蓝膜保湿修护绽美娅\n28天摆脱脆敏皮\n运费险7天无理由退货\n大促价\n¥169\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 14,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官方正品】绽媄娅丰盈紧致淡纹滋养精华贴骨pro眼霜舒缓绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 128.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "紧致肌肤 淡纹贴骨眼霜",
+      "raw_product_card": "14\n【官方正品】绽媄娅丰盈紧致淡纹滋养精华贴骨pro眼霜舒缓绽美娅\n紧致肌肤 淡纹贴骨眼霜\n运费险7天无理由退货\n大促价\n¥128\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 15,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官方正品】绽媄娅控油祛痘洁面泡100ml洗面奶洁面泡沫温和绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 49.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "15\n【官方正品】绽媄娅控油祛痘洁面泡100ml洗面奶洁面泡沫温和绽美娅\n运费险7天无理由退货\n大促价\n¥49\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 16,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【到手3瓶正装】绽媄娅净颜慕斯氨基酸深层清洁面洗面奶清透绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 99.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【到手3瓶正装】绽媄娅净颜慕斯氨基酸深层清洁面洗面奶清透绽美娅",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "16\n【到手3瓶正装】绽媄娅净颜慕斯氨基酸深层清洁面洗面奶清透绽美娅\n运费险7天无理由退货\n大促价\n¥99\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 17,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢购】绽媄娅焕能修护安肌钝感力精华乳保湿抗皱舒缓绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "17\n【双11抢购】绽媄娅焕能修护安肌钝感力精华乳保湿抗皱舒缓绽美娅\n运费险7天无理由退货\n大促价\n¥139\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 18,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【到手13片】绽媄娅紧致淡纹精华贴骨面膜淡纹细纹贴片式面膜保湿",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 109.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【到手13片】绽媄娅紧致淡纹精华贴骨面膜淡纹细纹贴片式面膜保湿",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "18\n【到手13片】绽媄娅紧致淡纹精华贴骨面膜淡纹细纹贴片式面膜保湿\n运费险7天无理由退货\n大促价\n¥109\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 19,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢购】绽媄娅钝感力焕能修护舒缓面膜保湿紧致抗皱绽美娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 79.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "19\n【双11抢购】绽媄娅钝感力焕能修护舒缓面膜保湿紧致抗皱绽美娅\n运费险7天无理由退货\n大促价\n¥79\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 20,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【到手56件】绽美娅PDRN能量棒2.0次抛精华舒缓修护紧致抗皱绽媄娅",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 309.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【到手56件】绽美娅PDRN能量棒2.0次抛精华舒缓修护紧致抗皱绽媄娅；尝鲜装 到手46支同款还送面膜",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "尝鲜装 到手46支同款还送面膜",
+      "raw_product_card": "20\n【到手56件】绽美娅PDRN能量棒2.0次抛精华舒缓修护紧致抗皱绽媄娅\n尝鲜装 到手46支同款还送面膜\n运费险7天无理由退货\n¥309\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:23:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/zhanmeiya-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

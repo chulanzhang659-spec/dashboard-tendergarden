@@ -1,0 +1,271 @@
+{
+  "competitor_id": "pier-auge",
+  "platform": "抖音",
+  "shop_name": "Pier Augé官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA85T4TaWTm0kNyJeNMzAwEp727RGr4dBybwvuQjjCKTdPTojQGM6wE_wH1FPemFgq",
+  "live_url": "https://live.douyin.com/925880260645",
+  "captured_at": "2026-10-15T12:41:33+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表12款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11必囤】法国佩尔赫乔融雪面膜PDRN修护焕亮免洗睡眠面膜礼盒",
+      "product_id": null,
+      "product_url": null,
+      "sku": "默认",
+      "selected_sku_display_price": 888,
+      "list_display_price": 888.0,
+      "price_label": "商品详情默认规格显示价，未提交订单",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "当前账号显示暂无可用优惠券；直播宣传平台券与补贴未验证适用资格",
+      "promotion_copy": "平台券80+品牌补贴立省135",
+      "raw_product_card": "1\n【双11必囤】法国佩尔赫乔融雪面膜PDRN修护焕亮免洗睡眠面膜礼盒\n平台券80+品牌补贴立省135\n运费险7天无理由退货\n大促价\n¥888\n¥1098\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【地方补贴】佩尔赫乔融雪面膜50ml*3 PDRN修护焕亮免洗睡眠面膜",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 1359.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "2号限量赠3999小排灯",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "2号限量赠3999小排灯",
+      "raw_product_card": "2\n【地方补贴】佩尔赫乔融雪面膜50ml*3 PDRN修护焕亮免洗睡眠面膜\n2号限量赠3999小排灯\n运费险7天无理由退货\n大促价\n¥1359\n¥1587\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官方正品】法国佩尔赫乔融雪面膜PDRN修护焕亮涂抹免洗睡眠面膜",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 459.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "单支尝鲜 15mins焕亮修护",
+      "raw_product_card": "3\n 【官方正品】法国佩尔赫乔融雪面膜PDRN修护焕亮涂抹免洗睡眠面膜\n单支尝鲜 15mins焕亮修护\n运费险7天无理由退货\n大促价\n¥459\n¥529\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "Pier Auge/佩尔赫乔三重焕颜紧塑精华面霜 50ml 奢养修护紧致抗皱",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 699.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "100倍充盈饱满，温和修护",
+      "raw_product_card": "4\nPier Auge/佩尔赫乔三重焕颜紧塑精华面霜 50ml 奢养修护紧致抗皱\n100倍充盈饱满，温和修护\n运费险7天无理由退货\n大促价\n¥699\n¥999\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【重磅新品】佩尔赫乔PDRN 3D精华抗皱紧致保湿修护精华液",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 999.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "券满1299减300",
+      "promotion_copy": "28天3D重构年轻肌态；券满1299减300",
+      "raw_product_card": "5\n【重磅新品】佩尔赫乔PDRN 3D精华抗皱紧致保湿修护精华液\n28天3D重构年轻肌态\n券满1299减300\n大促价\n¥999\n¥1299\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "法国佩尔赫乔PDRN修护焕亮cp礼盒（融雪面膜50ml*2+精粹水200ml）",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 1219.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "官方护肤CP套组",
+      "raw_product_card": "6\n法国佩尔赫乔PDRN修护焕亮cp礼盒（融雪面膜50ml*2+精粹水200ml）\n官方护肤CP套组\n运费险7天无理由退货\n大促价\n¥1219\n¥1457\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "佩尔赫乔修护焕亮CP组合（融雪面膜50ML+精粹水200ML）",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 788.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "院线同款CP拍1到手12件!",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "院线同款CP拍1到手12件!",
+      "raw_product_card": "7\n佩尔赫乔修护焕亮CP组合（融雪面膜50ML+精粹水200ML）\n院线同款CP拍1到手12件!\n运费险次日发7天无理由退货\n大促价\n¥788\n¥928\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "法国佩尔赫乔赋活焕颜保湿DNA精粹爽肤水200ml舒缓修护保湿",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 369.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "精粹水搭配融雪面膜，效果up!",
+      "raw_product_card": "8\n法国佩尔赫乔赋活焕颜保湿DNA精粹爽肤水200ml舒缓修护保湿\n精粹水搭配融雪面膜，效果up!\n运费险次日发7天无理由退货\n大促价\n¥369\n¥399\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "法国佩尔赫乔PDRN融雪面膜100ml熬夜急救修护涂抹免洗睡眠",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 999.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "院线同款尊享版大容量融雪面膜~",
+      "raw_product_card": "9\n法国佩尔赫乔PDRN融雪面膜100ml熬夜急救修护涂抹免洗睡眠\n院线同款尊享版大容量融雪面膜~\n运费险7天无理由退货\n大促价\n¥999\n¥1299\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 10,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【敏感肌可用】佩尔赫乔云朵洁面100ml泡沫温和清洁洗卸合一",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 199.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "云朵洁面 温和洗卸合一",
+      "raw_product_card": "10\n【敏感肌可用】佩尔赫乔云朵洁面100ml泡沫温和清洁洗卸合一\n云朵洁面 温和洗卸合一\n运费险次日发7天无理由退货\n大促价\n¥199\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 11,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "佩尔赫乔多效卸妆油198ml浓妆淡妆净澈温和不刺激",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 315.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "温和卸顽妆 不辣眼0刺激",
+      "raw_product_card": "11\n佩尔赫乔多效卸妆油198ml浓妆淡妆净澈温和不刺激\n温和卸顽妆 不辣眼0刺激\n运费险7天无理由退货\n大促价\n¥315\n¥499\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 12,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "法国佩尔赫乔奢护润泽唇部精华保湿滋润淡化唇纹",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 199.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "水润丰盈，清爽不粘腻～",
+      "raw_product_card": "12\n法国佩尔赫乔奢护润泽唇部精华保湿滋润淡化唇纹\n水润丰盈，清爽不粘腻～\n运费险7天无理由退货\n¥199\n¥209\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:41:33+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pier-auge-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

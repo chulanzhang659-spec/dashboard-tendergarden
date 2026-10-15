@@ -1,0 +1,119 @@
+{
+  "competitor_id": "zhanmeiya",
+  "platform": "天猫",
+  "shop_name": "绽媄娅旗舰店",
+  "captured_at": "2026-10-14T17:29:24.237177+08:00",
+  "capture_status": "partial_capture",
+  "scope": "销量榜前6项，排除第2位会员购物金；5款实物商品详情、所选规格及促销图片已核验",
+  "products": [
+    {
+      "rank": 1,
+      "product_id": "976443315349",
+      "product_url": "https://detail.tmall.com/item.htm?id=976443315349",
+      "title": "【加购10月15号李佳琦美妆节】绽美娅双球PDRN能量棒2.0绽媄娅zb",
+      "sku": "1盒 【到手48支+13片面膜】",
+      "selected_sku_display_price": 399.0,
+      "price_label": "当前详情展示价；未结算；10月15日20:00开始预售，非当前可成交活动价",
+      "gift_copy": "所选1盒：到手48支＋13片面膜；对应海报赠同款次抛18支＋钝感力面膜13片。直播权益以主图为准，不与店铺权益叠加。",
+      "gift_reason": null,
+      "coupon_conditions": "未来预售：海报到手296元，定金40＋尾款256；页面价399，优惠券43及立减60；另示满200减20及88VIP实付480减60，资格未核验",
+      "link_status": "active",
+      "evidence": [
+        "zhanmeiya-r1-dom.json",
+        "zhanmeiya-r1-selected.png",
+        "zhanmeiya-r1-main-3.webp",
+        "zhanmeiya-r1-main-4.webp",
+        "zhanmeiya-r1-main-5.webp"
+      ],
+      "public_evidence": [
+        "zhanmeiya-r1-main-3.webp",
+        "zhanmeiya-r1-main-4.webp",
+        "zhanmeiya-r1-main-5.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "product_id": "1040294384324",
+      "product_url": "https://detail.tmall.com/item.htm?id=1040294384324",
+      "title": "【加购10月15号李佳琦美妆节】绽美娅祛痘次抛-多版本绽媄娅 zb",
+      "sku": "30支 【3.0版到手40支】",
+      "selected_sku_display_price": 188.0,
+      "price_label": "当前详情展示价；未结算；10月15日20:00开始预售，非当前可成交活动价",
+      "gift_copy": "所选30支3.0版到手40支；海报赠3.0经典原版10支。直播权益以主图为准，不与店铺权益叠加。",
+      "gift_reason": null,
+      "coupon_conditions": "未来预售：单盒海报99元，定金20＋尾款79；页面价188，立减29及优惠券60；不与店铺权益叠加",
+      "link_status": "active",
+      "evidence": [
+        "zhanmeiya-r3-dom.json",
+        "zhanmeiya-r3-selected.png",
+        "zhanmeiya-r3-main-3.webp",
+        "zhanmeiya-r3-main-4.webp",
+        "zhanmeiya-r3-main-5.webp"
+      ],
+      "public_evidence": [
+        "zhanmeiya-r3-main-3.webp",
+        "zhanmeiya-r3-main-4.webp",
+        "zhanmeiya-r3-main-5.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "product_id": "897167697685",
+      "product_url": "https://detail.tmall.com/item.htm?id=897167697685",
+      "title": "【天猫u先】绽媄娅祛痘小绿管控油次抛敏感肌精华液5支装绽美娅",
+      "sku": "5支体验装；页面无规格选择器",
+      "selected_sku_display_price": 9.9,
+      "price_label": "当前详情展示价；未结算",
+      "gift_copy": null,
+      "gift_reason": "已查看详情及主图，未显示独立实物赠品，不能据此断言无赠品",
+      "coupon_conditions": "U先试用限购1件，回购指定正装满200可用20元券，原价拍下不发货",
+      "link_status": "active",
+      "evidence": [
+        "zhanmeiya-r4-dom.json",
+        "zhanmeiya-r4-selected.png"
+      ],
+      "public_evidence": []
+    },
+    {
+      "rank": 5,
+      "product_id": "1023214840223",
+      "product_url": "https://detail.tmall.com/item.htm?id=1023214840223",
+      "title": "绽媄娅钝感力焕能修护安肌涂抹面膜补水保湿舒缓紧致敏感肌绽美娅",
+      "sku": "6g",
+      "selected_sku_display_price": 18.0,
+      "price_label": "当前详情展示价；未结算",
+      "gift_copy": null,
+      "gift_reason": "已查看详情及主图，未显示独立实物赠品，不能据此断言无赠品",
+      "coupon_conditions": "限购1件；所选6g，图片单袋标2g，未明确件数，不推断",
+      "link_status": "active",
+      "evidence": [
+        "zhanmeiya-r5-dom.json",
+        "zhanmeiya-r5-selected.png"
+      ],
+      "public_evidence": []
+    },
+    {
+      "rank": 6,
+      "product_id": "742841337215",
+      "product_url": "https://detail.tmall.com/item.htm?id=742841337215",
+      "title": "【u先】绽媄娅贴骨Pro贴片面膜3片补水保湿紧致淡纹抗皱绽美娅",
+      "sku": "贴骨面膜\n推荐",
+      "selected_sku_display_price": 9.9,
+      "price_label": "当前详情展示价；未结算",
+      "gift_copy": null,
+      "gift_reason": "已查看详情及主图，未显示独立实物赠品，不能据此断言无赠品",
+      "coupon_conditions": "U先试用限购1件，回购指定正装满200可用20元券，原价拍下不发货；按钮要求加入会员并领取，未操作",
+      "link_status": "active",
+      "evidence": [
+        "zhanmeiya-r6-dom.json",
+        "zhanmeiya-r6-selected.png"
+      ],
+      "public_evidence": []
+    }
+  ],
+  "missing": [
+    "未显示独立赠品的试用装保留未知",
+    "会员资格及优惠叠加未操作验证",
+    "第二时点可比快照尚未建立"
+  ]
+}

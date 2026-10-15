@@ -1,0 +1,784 @@
+{
+  "checked_at": "2026-10-13T04:58:17.550Z",
+  "url": "https://art.nint.com/shop-ali-new/search",
+  "keyword": "GEMO",
+  "scope": "情报通店铺搜索结果：商品关键词检索；候选店铺与用户指定店铺尚需核验；参考价与成交均价不是当前SKU到手价",
+  "tables": [
+    [
+      [
+        {
+          "text": "掌柜名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "地域",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "相关主打商品",
+          "rowspan": 1,
+          "colspan": 2,
+          "links": []
+        },
+        {
+          "text": "参考价格",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "本月均价",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "上月销量",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "销量统计",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "全选",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "gemo金茉旗舰店",
+          "rowspan": 10,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "gemo金茉旗舰店",
+              "href": "http://shop335054842.taobao.com"
+            }
+          ]
+        },
+        {
+          "text": "未知",
+          "rowspan": 10,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【无痛手打】GEMO金茉嘟嘟唇水光次抛精华脸部抗皱补水淡纹紧致",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【无痛手打】GEMO金茉嘟嘟唇水光次抛精华脸部抗皱补水淡纹紧致",
+              "href": "/item-ali/header?site=ali&id=1068500629308"
+            }
+          ]
+        },
+        {
+          "text": "199",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "129",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "1,273",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "1,711",
+          "rowspan": 10,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "",
+          "rowspan": 10,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【外补胶原】GEMO金茉精华胶原冻4R胶原机搭配使用大厂同源",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【外补胶原】GEMO金茉精华胶原冻4R胶原机搭配使用大厂同源",
+              "href": "/item-ali/header?site=ali&id=845395076139"
+            }
+          ]
+        },
+        {
+          "text": "1,299",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "439",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "187",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【会员派样尝鲜】GEMO LAB金茉双舱粉白瓶全新焕白面部精华1支",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【会员派样尝鲜】GEMO LAB金茉双舱粉白瓶全新焕白面部精华1支",
+              "href": "/item-ali/header?site=ali&id=950432381108"
+            }
+          ]
+        },
+        {
+          "text": "130",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "130",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "60",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【重磅新品】GEMO金茉双舱粉白瓶2025全新极速焕白黑科技面部精华",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【重磅新品】GEMO金茉双舱粉白瓶2025全新极速焕白黑科技面部精华",
+              "href": "/item-ali/header?site=ali&id=930381060708"
+            }
+          ]
+        },
+        {
+          "text": "254",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "254",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "56",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【U先渠道专享】GEMO 水光早霜降温修热损日间防光不反黑",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【U先渠道专享】GEMO 水光早霜降温修热损日间防光不反黑",
+              "href": "/item-ali/header?site=ali&id=1063417689718"
+            }
+          ]
+        },
+        {
+          "text": "19.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "17.18",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "49",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【U先渠道专享】GEMO金茉全新第2代密集精华胶原冻膜补全面部胶原",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【U先渠道专享】GEMO金茉全新第2代密集精华胶原冻膜补全面部胶原",
+              "href": "/item-ali/header?site=ali&id=949735655747"
+            }
+          ]
+        },
+        {
+          "text": "299",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "19.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "41",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【U先渠道专享】GEMO金茉双舱粉白瓶2025全新极速焕白面部精华",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【U先渠道专享】GEMO金茉双舱粉白瓶2025全新极速焕白面部精华",
+              "href": "/item-ali/header?site=ali&id=950826769337"
+            }
+          ]
+        },
+        {
+          "text": "29.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "25",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【直播专属】GEMO金茉焕白淡斑水光次抛精华脸部",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【直播专属】GEMO金茉焕白淡斑水光次抛精华脸部",
+              "href": "/item-ali/header?site=ali&id=1073974391380"
+            }
+          ]
+        },
+        {
+          "text": "1,194",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "13",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【直播间秒杀】GEMO LAB金茉双舱粉白瓶全新焕白面部精华1支",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【直播间秒杀】GEMO LAB金茉双舱粉白瓶全新焕白面部精华1支",
+              "href": "/item-ali/header?site=ali&id=951203193656"
+            }
+          ]
+        },
+        {
+          "text": "99.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "99.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "7",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【U先渠道专享】GEMO PDRN原料桶涂抹面膜水光保湿紧致",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【U先渠道专享】GEMO PDRN原料桶涂抹面膜水光保湿紧致",
+              "href": "/item-ali/header?site=ali&id=1063269461646"
+            }
+          ]
+        },
+        {
+          "text": "19.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "19.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "gemolab旗舰店",
+          "rowspan": 8,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "gemolab旗舰店",
+              "href": "http://shop244897770.taobao.com"
+            }
+          ]
+        },
+        {
+          "text": "东莞",
+          "rowspan": 8,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "金茉GEMO LAB敏感肌PDRN原料桶涂抹面膜水光保湿紧致抗皱舒缓修护",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "金茉GEMO LAB敏感肌PDRN原料桶涂抹面膜水光保湿紧致抗皱舒缓修护",
+              "href": "/item-ali/header?site=ali&id=975783765195"
+            }
+          ]
+        },
+        {
+          "text": "624",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "20",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "45",
+          "rowspan": 8,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "",
+          "rowspan": 8,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "金茉GEMO LAB敏感肌PDRN次抛精华液保湿紧致抗皱舒缓修护肌底液",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "金茉GEMO LAB敏感肌PDRN次抛精华液保湿紧致抗皱舒缓修护肌底液",
+              "href": "/item-ali/header?site=ali&id=994998591085"
+            }
+          ]
+        },
+        {
+          "text": "368",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "8",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【天猫U先】金茉GEMO LAB旗舰店PDRN修护面膜保湿紧致抗皱5g尝鲜",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【天猫U先】金茉GEMO LAB旗舰店PDRN修护面膜保湿紧致抗皱5g尝鲜",
+              "href": "/item-ali/header?site=ali&id=977602930465"
+            }
+          ]
+        },
+        {
+          "text": "29.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "6",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "金茉GEMO LAB旗舰店粉光珠精华液锁鲜焕白祛黄气配方保湿盈润",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "金茉GEMO LAB旗舰店粉光珠精华液锁鲜焕白祛黄气配方保湿盈润",
+              "href": "/item-ali/header?site=ali&id=938068524154"
+            }
+          ]
+        },
+        {
+          "text": "269",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "3",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "金茉GEMO LAB旗舰店PDRN水光晚霜修护舒缓敏感肌补水保湿乳液面霜",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "金茉GEMO LAB旗舰店PDRN水光晚霜修护舒缓敏感肌补水保湿乳液面霜",
+              "href": "/item-ali/header?site=ali&id=975860453515"
+            }
+          ]
+        },
+        {
+          "text": "399",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "3",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "金茉GEMO LAB双舱粉白瓶全新焕白透亮祛黄面部安瓶精华",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "金茉GEMO LAB双舱粉白瓶全新焕白透亮祛黄面部安瓶精华",
+              "href": "/item-ali/header?site=ali&id=936510623614"
+            }
+          ]
+        },
+        {
+          "text": "49.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "【天猫U先】 金茉GEMO LAB PDRN水光霜修护舒缓敏感肌面霜5g尝鲜",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "【天猫U先】 金茉GEMO LAB PDRN水光霜修护舒缓敏感肌面霜5g尝鲜",
+              "href": "/item-ali/header?site=ali&id=950427477760"
+            }
+          ]
+        },
+        {
+          "text": "19.90",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "金茉GEMO LAB旗舰店重组胶原蛋白涂抹精华面膜抗皱紧致熬夜面膜",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": [
+            {
+              "text": "金茉GEMO LAB旗舰店重组胶原蛋白涂抹精华面膜抗皱紧致熬夜面膜",
+              "href": "/item-ali/header?site=ali&id=944598534271"
+            }
+          ]
+        },
+        {
+          "text": "589",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1,
+          "links": []
+        }
+      ]
+    ]
+  ]
+}

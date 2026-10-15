@@ -1,0 +1,119 @@
+{
+  "competitor_id": "pier-auge",
+  "platform": "天猫",
+  "shop_name": "佩尔赫乔官方旗舰店",
+  "shop_url": "https://peierheqiao.tmall.com/category.htm",
+  "shop_scope": "用户新增国内官旗；与原海外店分开记录",
+  "captured_at": "2026-10-14T09:56:02.647Z",
+  "capture_status": "partial_capture",
+  "scope": "国内官旗销量TOP5商品详情、选中规格价格与赠品海报；不替代海外店记录",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【回购享30元券】法国佩尔赫乔融雪面膜修护抗皱免洗睡眠涂抹5ml",
+      "product_id": "873576774557",
+      "product_url": "https://detail.tmall.com/item.htm?id=873576774557",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=873576774557&mi_id=00001IjJSLCUsUIZVowXtrkYTieefseth0naZYZ1yjrOGj0&ns=1&skuId=5875720994603&xxc=taobaoSearch",
+      "sku": "5ml （融雪面膜5ml）\n店长主推",
+      "selected_sku_display_price": 18.9,
+      "price_label": "当前选中规格页面价；账号优惠及活动预售价单列",
+      "gift_copy": "会员回购指定正装满529减30；0.01预定礼要求回购满600，不是购买5ml自动赠送。赠礼规格未明确。",
+      "coupon_conditions": "平台加补后18.9，优惠前19.9；限购1；加入会员并领取未操作。",
+      "link_status": "active",
+      "evidence": [
+        "pier-auge-domestic-tmall-r1-dom.json",
+        "pier-auge-domestic-tmall-r1-selected.png",
+        "pier-auge-domestic-r1-skuimg-9.webp"
+      ],
+      "public_evidence": [
+        "pier-auge-domestic-r1-skuimg-9.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【双11加购】法国佩尔赫乔融雪面膜涂抹式pdrn免洗睡眠紧致抗皱",
+      "product_id": "822640228271",
+      "product_url": "https://detail.tmall.com/item.htm?id=822640228271",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=822640228271&mi_id=0000oAqStvMXxa2_EKCxAEawSkEL9WzG28LR6K2c7xDNKdA&ns=1&skuId=6286050286105&xxc=taobaoSearch",
+      "sku": "50.0ml 轻享体验丨5ml*4+精粹水30ml",
+      "selected_sku_display_price": 436.05,
+      "price_label": "当前选中规格页面价；账号优惠及活动预售价单列",
+      "gift_copy": "海报：下单即赠融雪5ml×5、精粹水30ml、面膜刷；与选中规格5ml×4有差异，未消除。另有0.01预定礼回购满600赠DNA晚霜10ml、会员赠晚霜1.5ml、前2500名预定赠3D精华1.1ml×1，均有条件。",
+      "coupon_conditions": "平台加补后436.05，优惠前541；官方立减12%省65、满541减17券；20号晚8满200减25。预售10月15日20:00至20日17:59，88VIP另有实付门槛券，不自行叠减。",
+      "link_status": "active",
+      "evidence": [
+        "pier-auge-domestic-tmall-r2-dom.json",
+        "pier-auge-domestic-tmall-r2-selected.png",
+        "pier-auge-domestic-r2-skuimg-10.webp"
+      ],
+      "public_evidence": [
+        "pier-auge-domestic-r2-skuimg-10.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【秒杀】法国佩尔赫乔融雪面膜修护抗皱免洗睡眠涂抹5ml",
+      "product_id": "873388811497",
+      "product_url": "https://detail.tmall.com/item.htm?id=873388811497",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=873388811497&mi_id=0000Ruq_4RDg-22_pJazS3PJR8CAT6Wg9py2kJbs9Z0cKps&ns=1&skuId=5870708976651&xxc=taobaoSearch",
+      "sku": "5ml （融雪面膜5ml）\n万人加购",
+      "selected_sku_display_price": 18.9,
+      "price_label": "当前选中规格页面价；账号优惠及活动预售价单列",
+      "gift_copy": "会员回购指定正装满529减30；0.01预定礼要求回购满600，不是购买5ml自动赠送。",
+      "coupon_conditions": "平台加补后18.9，优惠前19.9；限购1。",
+      "link_status": "active",
+      "evidence": [
+        "pier-auge-domestic-tmall-r3-dom.json",
+        "pier-auge-domestic-tmall-r3-selected.png",
+        "pier-auge-domestic-r3-skuimg-9.webp"
+      ],
+      "public_evidence": [
+        "pier-auge-domestic-r3-skuimg-9.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【活动专享】法国佩尔赫乔融雪面膜修护抗皱免洗睡眠涂抹5ml",
+      "product_id": "908447165672",
+      "product_url": "https://detail.tmall.com/item.htm?id=908447165672",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=908447165672&mi_id=0000YwAenNOMCgv0AmQaTQ2IO6UwamlRbU0cJ-YEm_YsJjk&ns=1&skuId=5770247117858&xxc=taobaoSearch",
+      "sku": "5ml\n万人加购",
+      "selected_sku_display_price": 18.9,
+      "price_label": "当前选中规格页面价；账号优惠及活动预售价单列",
+      "gift_copy": "会员回购指定正装满529减30；0.01预定礼要求回购满600，不是购买5ml自动赠送。",
+      "coupon_conditions": "秒杀18.9，优惠前19.9；限购1；20号晚8满200减25。",
+      "link_status": "active",
+      "evidence": [
+        "pier-auge-domestic-tmall-r4-dom.json",
+        "pier-auge-domestic-tmall-r4-selected.png"
+      ],
+      "public_evidence": []
+    },
+    {
+      "rank": 5,
+      "title": "【胡可推荐】法国佩尔赫乔融雪面膜PDRN涂抹式睡眠免洗紧致抗皱",
+      "product_id": "846940942246",
+      "product_url": "https://detail.tmall.com/item.htm?id=846940942246",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=846940942246&mi_id=0000Vy_fal4ND9eOCh94GJXd_O9zC4eegASJYaGL1U4OwBU&ns=1&skuId=6198315090228&xxc=taobaoSearch",
+      "sku": "50ml +融雪5ml*6+面膜刷",
+      "selected_sku_display_price": 513,
+      "price_label": "当前选中规格页面价；账号优惠及活动预售价单列",
+      "gift_copy": "所选50ml套餐内含融雪5ml×6及面膜刷；海报明确买1赠5ml×6及面膜刷。",
+      "coupon_conditions": "当前平台加补后513，优惠前540。海报直播价459，预售定金50/尾款409；该条件价不替代当前展示价。20号晚8满480减60。",
+      "link_status": "active",
+      "evidence": [
+        "pier-auge-domestic-tmall-r5-dom.json",
+        "pier-auge-domestic-tmall-r5-selected.png",
+        "pier-auge-domestic-r5-skuimg-10.webp"
+      ],
+      "public_evidence": [
+        "pier-auge-domestic-r5-skuimg-10.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "50ml商品规格写5ml×4而海报写5ml×5，条件差异待确认",
+    "第二个同规格时间点未采集，暂不计算价格赠品变化",
+    "原海外店访问受限，仍未完成"
+  ]
+}
