@@ -1,7 +1,3 @@
-# TenderGarden 唐嘉庭
+# Operations dashboard
 
-Independent single-file business dashboard.
-
-https://chulanzhang659-spec.github.io/dashboard-tendergarden/
-
-Data dates and gaps are marked within the dashboard.
+Password-protected encrypted site.
